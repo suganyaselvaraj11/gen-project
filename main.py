@@ -1,4 +1,4 @@
 print("Welcome to python")
 fruits=["apple","banana","grapes"]
-for x in fruits
-print (x)
+for x in fruits:
+    print (x)
